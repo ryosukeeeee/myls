@@ -10,3 +10,6 @@ Cargo.lock      Cargo.toml      README.md       src             target
 $ ./target/debug/myls 
 Cargo.toml     target     Cargo.lock     README.md     src     
 ```
+
+## 補足
+`more-rusty`ブランチでは、よりRustっぽい書き方に`main.rs`修正しています。
